@@ -1,0 +1,6 @@
+{
+  "name": "InstaEdit Studio - Web Video Editor",
+  "description": "Professional browser-based video editing studio inspired by Instagram Edits. Multi-track timeline, trim & split, filters, text & audio overlays, and real-time video export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
